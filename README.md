@@ -1,2 +1,2 @@
 # Waves-API
-Api for the main repository
+Api for the waves client repository
